@@ -1,0 +1,6 @@
+{
+    "threshold": 0.5,
+    "camera_width": 640,
+    "camera_height": 480,
+    "fps": 30
+}
